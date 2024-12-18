@@ -19,7 +19,6 @@ Aqui, encontrará meus projetos pessoais para fins de estudo, trabalhos acadêmi
   <img align="center" alt="Matheus-VS-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Matheus-Intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Matheus-Eclipse" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg">
-
 </div>  
 
   ##
