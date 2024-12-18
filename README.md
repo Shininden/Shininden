@@ -9,7 +9,7 @@ Aqui, poderá ver meus projetos pessoais para fins de estudo, trabalhos acadêmi
 <div align="center">
   <a href="https://github.com/Shininden">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Shininden&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shininden&layout=compact&langs_count=7&theme=holi"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shininden&layout=compact&langs_count=7&theme=holi"/>
 </div>
   
   ##
