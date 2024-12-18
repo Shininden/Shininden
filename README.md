@@ -1,7 +1,7 @@
 ### Olá! me chame Matheus Paz! 👋
 Aqui, encontrará meus projetos pessoais para fins de estudo, trabalhos acadêmicos e portfólio em geral.
 
-- 💼 Desenvolvedor de Software estagiando na PwC na área de Transformaion Consulting
+- 💼 Desenvolvedor de Software estagiando na PwC na área de Transformation Consulting
 - 🏫 Cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba
 - 📫 Meu email: mathpaz.oliveira@gmail.com
 ##
