@@ -1,5 +1,5 @@
 ### Olá! me chame Matheus Paz! 👋
-Aqui, encontrará meus projetos pessoais para fins de estudo, trabalhos acadêmicos e portfólio em geral.
+Aqui, poderá ver meus projetos pessoais para fins de estudo, trabalhos acadêmicos e portfólio em geral.
 
 - 💼 Desenvolvedor de Software estagiando na PwC na área de Transformation Consulting
 - 🏫 Cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba
