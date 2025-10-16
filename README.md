@@ -3,7 +3,6 @@ Aqui, poderá ver meus projetos pessoais para fins de estudo, trabalhos acadêmi
 
 - 💼 Desenvolvedor Salesforce estagiando na PwC na área de Transformation Consulting
 - 🏫 Cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba
-- 📫 Meu email: mathpaz.oliveira@gmail.com
 ##
 
 <div align="center">
